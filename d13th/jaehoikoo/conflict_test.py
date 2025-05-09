@@ -1,4 +1,5 @@
+print("line5")
 print("conflict me")
 print("line1")
-print("line2")
 print("line4")
+print("line2")
